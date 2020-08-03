@@ -1,0 +1,2 @@
+D:\.opengl staff\ProjectInk\Debug\ProjectInk.exe
+D:\.opengl staff\ProjectInk\Debug\ProjectInk.pdb
